@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#00BCD4</color>// цвет шапки над приложением
+    <color name="purple_700">#32B60D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="col_1">#47F6DC</color>
+    <color name="col_2">#37BDA9</color>
+    <color name="col_3">#247E70</color>
+    <color name="col_4">#15473F</color>
+
 </resources>
